@@ -1,4 +1,7 @@
 *.pyc
 *.swp
 *.egg-info
+.project
+.pydevproject
 tags
+/.gitignore

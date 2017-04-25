@@ -48,7 +48,7 @@ except ImportError:
 
 setup(
     name = 'TracSubTicketsPlugin',
-    version = '0.5.2',
+    version = '0.5.2 exocad Edition',
     keywords = 'trac plugin ticket subticket',
     author = 'Takashi Ito',
     author_email = 'TakashiC.Ito@gmail.com',
